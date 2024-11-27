@@ -25,3 +25,15 @@ The data set from the dataframe was then analysed using descriptive statistics a
 #### Other modules/collections:
 - datetime - to extract the time from the html timestamp
 - colourcet - when specific palettes were wanted for graphs
+
+#### Acknowledgements 
+
+This project used guides for PRAW webscrapping tutorials 
+- Author: BitsinBytes
+- Guide: [PRAW - Using Python to Scrape Reddit Data!](https://www.youtube.com/watch?v=Y7BSe7EiBTs)
+- Author: GeekforGeek
+- Guide: [Scraping Reddit using Python](https://www.geeksforgeeks.org/scraping-reddit-using-python/)
+
+This project used techniques from a tutorial to process sentiment analysis.
+- Author: DataCamp
+- Guide: [Text Analytics for Beginners with NLTK](https://www.datacamp.com/tutorial/text-analytics-beginners-nltk)
